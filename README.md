@@ -18,3 +18,5 @@ os<br/>
     .<br />
     .<br />
 </pre>
+## 展示
+![demo](https://github.com/simon831110/yolov3_preprocessing_person_detection/blob/main/data/cropped_and_uncropped.jpeg)
