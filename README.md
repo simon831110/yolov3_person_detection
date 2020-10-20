@@ -19,4 +19,5 @@ os<br/>
     .<br />
 </pre>
 ## 展示
+如圖所示，圖片經過裁剪後，減少了受到背景的影響，更能夠凸顯行人的型態。
 ![demo](https://github.com/simon831110/yolov3_preprocessing_person_detection/blob/main/data/cropped_and_uncropped.jpeg)
