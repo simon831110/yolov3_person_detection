@@ -1,6 +1,6 @@
 ## yolov3_preprocessing_person_detection
-這個倉庫是為了[person_classifiaction_tf2.0](https://github.com/simon831110/person_classifiaction_tf2.0)所做的前處理，使用Yolo v3使得行人圖片較不受到背景所影響並過濾沒有行人的圖片。
-
+這個倉庫是為了[person_classifiaction_tf2.0](https://github.com/simon831110/person_classifiaction_tf2.0)所做的前處理，使用Yolo v3使得行人圖片較不受到背景所影響並過濾沒有行人的圖片。<br/>
+行人偵測的部分使用此[GitHub](https://github.com/zzh8829/yolov3-tf2)請先至[這裡](https://pjreddie.com/media/files/yolov3.weights)下載權重檔並存放置`data`路徑下。
 ## 建置環境
 <pre>
 TensorFlow >=2.0.0<br/>
