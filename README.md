@@ -5,6 +5,7 @@
 <pre>
 TensorFlow >=2.0.0<br/>
 opencv-python<br/>
+os<br/>
 </pre>
 
 在當前資料夾下新增名為`dataset_cropped`的資料夾存放修剪後的圖片，並存在行人資料庫如下存放:
